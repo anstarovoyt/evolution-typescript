@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outFile": "discriminant_out.js",
+    "target": "es5",
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

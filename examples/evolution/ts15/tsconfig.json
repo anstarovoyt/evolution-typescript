@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outFile": "instanceof_guard_out.js",
+    "target": "es2015"
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "files": ["instanceof_guard.ts"]
+}

@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "outFile": "compilation_es5.js",
+    "target": "es5"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

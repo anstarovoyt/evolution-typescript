@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "outFile": "runtime_class_extnd_out.js"
+  },
+  "files": [
+    "runtime_class_extnd.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

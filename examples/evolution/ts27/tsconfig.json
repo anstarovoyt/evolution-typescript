@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "outFile": "interface_with_object_out.js",
+    "target": "es2015",
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "files": ["interface_with_object.ts"]
+}
